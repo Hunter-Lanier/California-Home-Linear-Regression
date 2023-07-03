@@ -1,1 +1,1 @@
-Hunter-Lanier.github.io/California-Home-Linear-Regression/CHLR.md
+[California Home Linear Regression Analysis](CHLR.md)
