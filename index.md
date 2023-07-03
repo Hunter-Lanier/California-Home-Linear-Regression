@@ -843,13 +843,3 @@ Another way to improve the prediction would be to utilize a diffent model all to
 ### Thank you for your time, and I hope that you enjoyed reading this as much as I did creating it.
 
 ### - Hunter Lanier
-
-
-```python
-
-```
-
-
-```python
-
-```
